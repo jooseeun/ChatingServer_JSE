@@ -1,1 +1,1 @@
-# ChatingServer_JSE
+# 채팅서버 구현 연습입니다.
